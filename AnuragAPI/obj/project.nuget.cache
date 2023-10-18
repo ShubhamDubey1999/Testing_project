@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNuJuGyV/b5HOB8EoyZZJzJ5uotvNZl8h+gnrywPG2P/My0LDPD9gHbKziMWWftc7qFQdudHO8LtAUs4MjlLcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teamarcs\\source\\repos\\FreeLance\\Anurag\\AnuragAPI\\AnuragAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
